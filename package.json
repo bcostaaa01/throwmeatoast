@@ -4,6 +4,7 @@
   "description": "Throws a toast notification.",
   "main": "src/index.ts",
   "files": ["src/**/*"],
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
